@@ -13,6 +13,7 @@ You will also need to setup the JDBC resources/connection pool via the admin con
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
+* [Payara](https://www.payara.fish/) - Connector
 
 ## Features
 * Displays actors and films from the sakila database
