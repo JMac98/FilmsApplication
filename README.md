@@ -2,18 +2,13 @@
 
 Java web application which allows users to view actor/film data from the MySQL sample database, Sakila. 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 ```
-Payara 5+
-MySQL Workbench 
-MySQL Server
-MySQL Sample databases (sakila)
+Payara 5+ - https://www.payara.fish/software/downloads/
+MySQL Workbench (MySQL Server, MySQL Sample database)- https://dev.mysql.com/downloads/installer/ 
 
+You will also need to setup the JDBC resources/connection pool
 ```
 ## Built With
 
