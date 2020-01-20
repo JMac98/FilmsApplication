@@ -1,4 +1,4 @@
-# FilmsApplication
+# film-application
 
 Simple Java web application which allows users to view actor/film data from the MySQL sample database, Sakila. 
 
